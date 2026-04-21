@@ -6,7 +6,7 @@ layout: page
 
 <img src="./images/profile.png" class="floatpic">
 
-<br>Here is **Siyuan He** (贺思远).<br>
+<br>Here is **Siyuan He** (贺思远). Please finds my [RESUME](/file/Resume.pdf).<br>
 
 <br>I am a 5th-year PhD student at Purdue University, where I am advised by [Tiark Rompf](https://tiarkrompf.github.io/).
 

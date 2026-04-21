@@ -47,7 +47,7 @@ title: Publications
 
 ## Other Documents
 
-- To be Published
+- Presentation: Verification of an Airport Taxiway Path-Finding Algorithm. DASC 2020. [Slides](/file/taxi-slides.pdf)
 
   <br>
 
