@@ -39,7 +39,7 @@ title: Publications
 
 ## Early Paper
 
-- [Verification of an Airport Taxiway Path-Finding Algorithm](https://ieeexplore.ieee.org/document/9256698)<br>**Siyuan He**, Ke Du, Joshua Wilhelm, Jean-Baptiste Jeannin<br>DASC 2020. Best of Session. [pdf](../file/taxi-paper.pdf)
+- [Verification of an Airport Taxiway Path-Finding Algorithm](https://ieeexplore.ieee.org/document/9256698)<br>**Siyuan He**, Ke Du, Joshua Wilhelm, Jean-Baptiste Jeannin<br>DASC 2020. [Best of Session](/file/taxi-bestofsession.pdf). [pdf](../file/taxi-paper.pdf)
 
   <br>
 

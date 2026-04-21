@@ -38,4 +38,4 @@ layout: page
 
 ## News and Updates
 
-- **Fall 2025**：Graduate Teaching Award (for CS240)
+- **Fall 2025**：[Graduate Teaching Award](/images/GTA-award.jpg) (for CS240)
