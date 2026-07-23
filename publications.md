@@ -19,9 +19,9 @@ title: Publications
 
 - [When Lifetimes Liberate: A Type System for Arenas with Higher-Order Reachability Tracking](https://dl.acm.org/doi/10.1145/3798254)<br>**Siyuan He**, Songlin Jia, Yuyan Bao, Tiark Rompf<br>OOPSLA 26. [Extended Version](https://arxiv.org/pdf/2509.04253). [pdf](../file/arena-paper.pdf)
 
-- Escape with Your Self: Sound and Expressive Bidirectional Typing with Avoidance for Reachability Types<br>Songlin Jia, Guannan Wei, **Siyuan He**, Yuyan Bao, Tiark Rompf<br>PLDI 26. [Extended Version](https://arxiv.org/pdf/2404.08217). [pdf](../file/escape-paper.pdf)
+- [Escape with Your Self: Sound and Expressive Bidirectional Typing with Avoidance for Reachability Types](https://dl.acm.org/doi/10.1145/3808335)<br>Songlin Jia, Guannan Wei, **Siyuan He**, Yuyan Bao, Tiark Rompf<br>PLDI 26. [Extended Version](https://arxiv.org/pdf/2404.08217). [pdf](../file/escape-paper.pdf)
 
-- Typestate via Revocable Capabilities<br>Songlin Jia, Craig Liu, **Siyuan He**, Haotian Deng, Tiark Rompf<br>PLDI 26. [Arxiv Version](https://arxiv.org/pdf/2510.08889). [pdf](../file/typestate-paper.pdf)
+- [Typestate via Revocable Capabilities](https://dl.acm.org/doi/10.1145/3808323)<br>Songlin Jia, Craig Liu, **Siyuan He**, Haotian Deng, Tiark Rompf<br>PLDI 26. [Arxiv Version](https://arxiv.org/pdf/2510.08889). [pdf](../file/typestate-paper.pdf)
 
 - [Complete the Cycle: Reachability Types with Expressive Cyclic References](https://dl.acm.org/doi/10.1145/3763172)<br>Haotian Deng, **Siyuan He**, Songlin Jia, Yuyan Bao, Tiark Rompf<br>OOPSLA 25. [pdf](../file/cycle-paper.pdf)
 
@@ -29,9 +29,9 @@ title: Publications
 
 ## Submitted Paper
 
-- Let Functions Speak: Lightweight Parametric Polymorphism via Domain and Range Types<br>**Siyuan He**, Songlin Jia, Tiark Rompf<br>Submitted to OOPSLA 26 R2. [arxiv](https://arxiv.org/pdf/2603.23360)
+- Let Functions Speak: Lightweight Parametric Polymorphism via Domain and Range Types<br>**Siyuan He**, Songlin Jia, Tiark Rompf<br>Submitted. [arxiv](https://arxiv.org/pdf/2603.23360)
 
-- Free to Move: Reachability Types with Flow-Sensitive Effects for Safe Deallocation and Ownership Transfer<br>Haotian Deng, **Siyuan He**, Songlin Jia, Yuyan Bao, Tiark Rompf<br>Submitted to OOPSLA 26 R2. [arxiv](https://arxiv.org/pdf/2510.08939)
+- Free to Move: Reachability Types with Flow-Sensitive Effects for Safe Deallocation and Ownership Transfer<br>Haotian Deng, **Siyuan He**, Songlin Jia, Yuyan Bao, Tiark Rompf<br>Submitted. [arxiv](https://arxiv.org/pdf/2510.08939)
 
   <br>
 
